@@ -5,9 +5,9 @@
 - 📫 You can reach me at amalpullan4@gmail.com
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1&pause=1000&color=FF3171&width=435&lines=Mohammed+Nasim+TV+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1&pause=1000&color=FF3171&width=435&lines=Amal+Benny+%3A)" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF3171&width=435&lines=I+am+a+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF3171&width=435&lines=I+am+a+Full+Stack+Developer,+Robotic+Developer.+I+love+playing+with+code+and+thinking+about+new+ideas" alt="Typing SVG" /></a>
 
 
 
