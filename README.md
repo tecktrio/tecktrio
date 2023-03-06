@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p>
-<a href="[https://www.linkedin.com/in/mohammed-nasim-t-v-71bab/](https://www.linkedin.com/in/amal-benny-005445248/)/"><img width="100px" alt="Youtube" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amal-benny-005445248/"><img width="100px" alt="Youtube" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/na._si_.m/?hl=en"><img width="100px" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  </p>
