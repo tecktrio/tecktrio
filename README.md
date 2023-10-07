@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tecktrio ,My interestes ...
+- 👋 Hi, I’m Trio ,My interestes ...
 - 👀 Robotics and Developing Softwares that impliments the lastest tech features.
 - 🌱 Currently learning a framework in python called django to develop websites using the python which is my favorate language.
 - 💞️ I’m looking to collaborate on the projects that is based on the projects that is related to robotics AI and Mechine learning.
@@ -7,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1&pause=1000&color=FF3171&width=435&lines=Amal+Benny+%3A)" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF3171&width=1200&lines=I+am+a+Full+Stack+Developer,+Robotic+Developer.+I+love+playing+with+code+and+thinking+about+new+ideas." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF3171&width=1200&lines=I+am+a+Software+Developer,+Robotic+Developer.+I+love+playing+with+code+and+thinking+about+new+ideas." alt="Typing SVG" /></a>
 
 
 
